@@ -11,7 +11,7 @@ I'm always excited to connect with like-minded professionals, exchange knowledge
 
 ## 👨‍💻 About Me
 
-- 🎓 **CSAI Undergrad**: Pursuing Bachelor's in Technology in the field of Computer Science with a specialisation in Artificial Intelligence @ [IIIT Delhi](https://iiitd.ac.in/)
+- 🎓 **CSAI Undergraduate**: Pursuing Bachelor's in Technology in the field of Computer Science with a specialisation in Artificial Intelligence @ [IIIT Delhi](https://iiitd.ac.in/)
 - 🔍 **Researcher**: Engaged in multiple AI, ML & DL-based projects @ [Network and Systems Security Lab](https://iiitd.ac.in/sites/default/files/docs/positions/Hiring%20pamphlet%20-%20Networking%20and%20Security%20Lab.pdf).
 - 🤖 **Machine Learning Expert**: Keen on learning & exploring the rapidly growing field of AI & ML, and strive to contribute to the society in any capacity & to the best of my ability
 - 🔧 **Developer**: Creating solutions that address real-world problems with the knowledge gained extending the use of Computer Science fundamentals, tools & technology to implement the solutions.
