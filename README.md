@@ -1,74 +1,56 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=36&duration=2000&color=7EB5F7&vCenter=true&multiline=true&repeat=false&width=435&height=50&lines=Tanmay+Singh)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&duration=2000&color=7EB5F7&vCenter=true&multiline=true&repeat=false&width=600&height=75&lines=CSAI+Senior+,+IIIT-Delhi+%7C+Undergraduate+Researcher+,+NetSec+Lab;Software+Engineer+%7C+Specialise+in+Artificial+Intelligence;AI+%7C+NLP+%7C+DL+%7C+ML+%7C+System+Security)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&duration=2000&color=7EB5F7&vCenter=true&multiline=true&repeat=false&width=600&height=75&lines=AI+Infrastructure+%26+Systems+Architect;B.Tech+Graduate+%40+IIIT-Delhi;Research+Assistant+%40+NetSec+Lab)](https://git.io/typing-svg)
 
-👋 Hello, and welcome to my profile! I am a senior undergraduate student at IIIT-Delhi, specializing in Computer Science with a focus on Artificial Intelligence. My fascination with technology goes beyond just machines—I'm deeply intrigued by the potential of AI, Machine Learning, and Deep Learning to shape our future.
+👋 **Systems-first Engineer & AI Researcher specializing in robust, secure, and scalable infrastructure.**
 
-I approach my work with dedication, always striving for excellence and personal growth. Whether it's conducting research or tackling complex technical challenges, I remain committed to honing my skills and pushing the boundaries of what I can achieve. Continuous learning is at the heart of my journey, and I actively seek out new areas of exploration within the evolving world of technology.
+I am a **Computer Science and AI graduate** from **IIIT-Delhi** and a **Research Assistant** at the **Network and Systems Security (NetSec) Lab**. My work is centered on the belief that **AI Safety is a systems problem, not just a prompt problem.** I design deterministic control planes for LLMs, optimize inference for production-scale models, and build high-integrity backend systems.
 
-Beyond the technical sphere, I believe in balance and mindfulness, prioritizing peace and stability in both my personal and professional life. Every day, I work toward becoming a better version of myself, choosing personal development and well-being over perfection.
-
-I'm always excited to connect with like-minded professionals, exchange knowledge, and collaborate on exciting projects. Let's explore new horizons together—feel free to reach out!
-
-## 👨‍💻 About Me
-
-- 🎓 **CSAI Undergraduate**: Pursuing Bachelor's in Technology in the field of Computer Science with a specialisation in Artificial Intelligence @ [IIIT Delhi](https://iiitd.ac.in/)
-- 🔍 **Researcher**: Engaged in multiple AI, ML & DL-based projects @ [Network and Systems Security Lab](https://iiitd.ac.in/sites/default/files/docs/positions/Hiring%20pamphlet%20-%20Networking%20and%20Security%20Lab.pdf).
-- 🤖 **Machine Learning Expert**: Keen on learning & exploring the rapidly growing field of AI & ML, and strive to contribute to the society in any capacity & to the best of my ability
-- 🔧 **Developer**: Creating solutions that address real-world problems with the knowledge gained extending the use of Computer Science fundamentals, tools & technology to implement the solutions.
-
-### 🖥️ Open-Source Projects
-<table>
-<tr><th>Machine Learning </th></tr>
-<tr><td>
-
-|Title | Technologies|
-|--|--|
-| [Emotion-Cause Extraction and <br>Flip Reasoning in conversations](https://github.com/SachinSharma-IIITD/nlp-project) | ![TensorFlow](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
-| [System Security (Container Orchestration & use of ML/DL)](https://github.com/sociallyencrypted/MalContainer) | ![TensorFlow](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
-| [Contribution to Spectre-Meltdown Tracker](https://github.com/imtanmay46/SpectreMeltdownTracker) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
-| [Optimized Convolutional Architectures to solve Cross-Domain Classification Tasks](https://github.com/imtanmay46/Deep-Learning) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)| ![TensorFlow](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
-| [The Hawwkstore: An Online Supermarket](https://github.com/SachinSharma-IIITD/dbms-online-retail-store) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
-| [Working Prototype of Tank Stars Game using OOPs in Java](https://github.com/Vasan2312/TEAM_MOTORHEADS) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
-| [Unix Shell](https://github.com/imtanmay46/Unix-Shell) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
-| [Treasure Hunt using CLI](https://github.com/imtanmay46/IP-Project) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
-| [Formula1 Dashboard](https://github.com/imtanmay46/F1-Dashboard) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
-| [Fruit Classification Model](https://github.com/imtanmay46/FRUIT-CLASSIFICATION-MODEL-SML-PROJECT-) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
-
-</td></tr>
-</table>
-
-## 🔧 Technologies & Tools
-
-- **Languages**: Python, C, C++, Java, Prolog
-- **Frameworks**: TensorFlow, PyTorch, Numpy, Matplotlib, HuggingFace, OpenCV
-- **Tools**: Jupyter, Git
-- **Platforms**: Android, Linux, Mac
-
-## 📈 Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imtanmay46&theme=nord_dark)   
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imtanmay46&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imtanmay46&theme=nord_dark) 
-
-## 💬 Let's Connect
-
-- [**LinkedIn**](https://www.linkedin.com/in/tanmay-singh-2b997a240/)
-- [**Email**](tanmay21569@iiitd.ac.in)
+I am actively seeking full-time opportunities to solve complex engineering challenges at the intersection of **AI Infrastructure, System Security, and Distributed Systems.**
 
 ---
 
-Feel free to check out my repositories to see my latest projects and collaborations. Let's build something amazing together!
+## Core Engineering Pillars
 
-<!--
-**imtanmay46/imtanmay46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **AI Governance & Control Planes**: Engineering "fail-closed" architectures for enterprise LLM gateways and implementing deterministic safety gates that decouple policy enforcement from model reasoning.
+- **Production ML (MLOps)**: Leveraging **Google Cloud (Vertex AI)** and **BigQuery** to build scalable pipelines. Specialized in parameter-efficient fine-tuning (LoRA) and side-channel attack detection using hybrid CNN-BIGRU-CRF models.
+- **Distributed Systems & Backend**: Revamping high-traffic payment infrastructures (Next.js/Node.js) to achieve a 25% reduction in failures and developing low-level Unix shell environments.
+- **Assistive Computer Vision**: Designing real-time VQA systems (YOLOv11, LangChain) focused on Passenger Safety and high-precision object detection for visually impaired users.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Top Impact Project: Project Aether
+**Enterprise AI Governance Gateway** *A reference architecture for enforcing deterministic safety boundaries outside the LLM execution engine.*
+- **Systemic Goal**: Decouple safety from non-deterministic model outputs to ensure "Fail-Closed" security.
+- **Architectural Design**: Dual-Gate Enforcement, Zero-Trust Framework, and Immutable Forensic Auditing.
+- **Tech Stack**: FastAPI, n8n, Supabase, Microsoft Presidio, Gemini 3 Flash.
+- [**View Repository**](https://github.com/imtanmay46/Project-Aether) | [**Read Design Disclosure**](https://github.com/imtanmay46/Project-Aether/blob/main/docs/SECURITY_WHITEPAPER.md)
+
+---
+
+## Research & Industrial Engineering
+
+| Category | Initiative | Key Impact |
+| :--- | :--- | :--- |
+| **AI Safety** | [Project Aether: Governance Gateway](https://github.com/imtanmay46/Project-Aether) | Designed infrastructure-level safety controls for untrusted LLMs. |
+| **Security** | [Side-Channel Malware Detection](https://github.com/sociallyencrypted/MalContainer) | Surpassed baseline accuracy with a **97% Macro F1 Score** via syscall analysis. |
+| **FinTech** | [Payments Revamp (SDE Intern)](https://github.com/imtanmay46/Bizad-Payments) | **Reduced failures by 25%** and improved load times by 30%. |
+| **Optimization** | [LLM Fine-tuning (LoRA)](https://github.com/imtanmay46/Bizad-LLM) | **Reduced average inference time by 40%** for legal-domain assistants. |
+| **NLP** | [Emotion-Cause Recognition (BERT)](https://github.com/SachinSharma-IIITD/nlp-project) | Achieved a **99.4% F1 Score** in complex emotion classification tasks. |
+
+---
+
+## Technical Toolkit (Alphabetical)
+
+- **Languages**: C, C++, Java, JavaScript, Python, SQL, TypeScript
+- **AI/ML/NLP**: BERT, HuggingFace, LangChain, PyTorch, Scikit-learn, TensorFlow
+- **Infra/Cloud**: **AWS**, **Docker**, **FastAPI**, **Google Cloud Platform (GCP)**, **Kubernetes (K8s)**
+- **Data/Search**: **BigQuery**, MongoDB, MySQL, PostgreSQL
+
+---
+
+## Connect with an Engineer
+- [**LinkedIn**](https://www.linkedin.com/in/tanmay-singh-2b997a240/)
+- [**Email**](mailto:tanmay.singh0185@gmail.com)
+- [**Engineering Portfolio**](https://tinyurl.com/tanmay-singh-portfolio)
+
+> "Architecture is not about what it is, it's about what it prevents!!"
