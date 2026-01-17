@@ -1,56 +1,70 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=36&duration=2000&color=7EB5F7&vCenter=true&multiline=true&repeat=false&width=435&height=50&lines=Tanmay+Singh)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&duration=2000&color=7EB5F7&vCenter=true&multiline=true&repeat=false&width=600&height=75&lines=AI+Infrastructure+%26+Systems+Architect;B.Tech+Graduate+%40+IIIT-Delhi;Research+Assistant+%40+NetSec+Lab)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&duration=2000&color=7EB5F7&vCenter=true&multiline=true&repeat=false&width=700&height=75&lines=Software+Engineer+%26+AI+Researcher;B.Tech+Graduate+%40+IIIT-Delhi;Research+Assistant+%40+NetSec+Lab)](https://git.io/typing-svg)
 
-👋 **Systems-first Engineer & AI Researcher specializing in robust, secure, and scalable infrastructure.**
+👋 **Software Engineer & AI Researcher with a systems-first approach to secure, scalable ML-backed applications.**
 
-I am a **Computer Science and AI graduate** from **IIIT-Delhi** and a **Research Assistant** at the **Network and Systems Security (NetSec) Lab**. My work is centered on the belief that **AI Safety is a systems problem, not just a prompt problem.** I design deterministic control planes for LLMs, optimize inference for production-scale models, and build high-integrity backend systems.
+I am a **Computer Science and AI graduate** from **IIIT-Delhi** and currently a **Research Assistant** at the **Network and Systems Security (NetSec) Lab**.  
+My interests lie at the intersection of **software engineering, AI systems, and security**, with a particular focus on building **reliable, failure-aware infrastructure for LLM-powered applications**.
 
-I am actively seeking full-time opportunities to solve complex engineering challenges at the intersection of **AI Infrastructure, System Security, and Distributed Systems.**
+I am especially interested in **AI safety from a systems perspective**, where reliability, policy enforcement, and observability are treated as engineering problems rather than prompt-only solutions.
 
----
-
-## Core Engineering Pillars
-
-- **AI Governance & Control Planes**: Engineering "fail-closed" architectures for enterprise LLM gateways and implementing deterministic safety gates that decouple policy enforcement from model reasoning.
-- **Production ML (MLOps)**: Leveraging **Google Cloud (Vertex AI)** and **BigQuery** to build scalable pipelines. Specialized in parameter-efficient fine-tuning (LoRA) and side-channel attack detection using hybrid CNN-BIGRU-CRF models.
-- **Distributed Systems & Backend**: Revamping high-traffic payment infrastructures (Next.js/Node.js) to achieve a 25% reduction in failures and developing low-level Unix shell environments.
-- **Assistive Computer Vision**: Designing real-time VQA systems (YOLOv11, LangChain) focused on Passenger Safety and high-precision object detection for visually impaired users.
+I am actively seeking **full-time software engineering or applied ML roles**, where I can contribute to building robust backend and AI-driven systems while continuing to grow as an engineer.
 
 ---
 
-## Top Impact Project: Project Aether
-**Enterprise AI Governance Gateway** *A reference architecture for enforcing deterministic safety boundaries outside the LLM execution engine.*
-- **Systemic Goal**: Decouple safety from non-deterministic model outputs to ensure "Fail-Closed" security.
-- **Architectural Design**: Dual-Gate Enforcement, Zero-Trust Framework, and Immutable Forensic Auditing.
-- **Tech Stack**: FastAPI, n8n, Supabase, Microsoft Presidio, Gemini 3 Flash.
-- [**View Repository**](https://github.com/imtanmay46/aether) | [**Read Design Disclosure**](https://github.com/imtanmay46/aether/blob/main/docs/SECURITY_WHITEPAPER.md)
+## Core Engineering Focus Areas
+
+- **AI Governance & Safety Systems**  
+  Designing and prototyping fail-closed safety architectures for LLM-based applications, with deterministic pre- and post-inference enforcement and clear auditability.
+
+- **Production ML & MLOps**  
+  Building and evaluating ML pipelines using **Google Cloud (Vertex AI)** and **BigQuery**, with experience in **parameter-efficient fine-tuning (LoRA)** and applied ML for security use cases.
+
+- **Backend & Distributed Systems**  
+  Developing and improving backend services using modern web stacks, including work on high-traffic payment systems and low-level Unix-based environments.
+
+- **Applied Computer Vision**  
+  Working on real-time vision-language systems (YOLO, LangChain) for assistive and safety-critical applications.
 
 ---
 
-## Research & Industrial Engineering
+## Featured Project: Project Aether
+**AI Governance Gateway (Research & Systems Engineering Project)**  
+*A reference architecture exploring deterministic safety enforcement outside the LLM execution engine.*
 
-| Category | Initiative | Key Impact |
-| :--- | :--- | :--- |
-| **AI Safety** | [Project Aether: Governance Gateway](https://github.com/imtanmay46/Project-Aether) | Designed infrastructure-level safety controls for untrusted LLMs. |
-| **Security** | [Side-Channel Malware Detection](https://github.com/sociallyencrypted/MalContainer) | Surpassed baseline accuracy with a **97% Macro F1 Score** via syscall analysis. |
-| **FinTech** | [Payments Revamp (SDE Intern)](https://github.com/imtanmay46/Bizad-Payments) | **Reduced failures by 25%** and improved load times by 30%. |
-| **Optimization** | [LLM Fine-tuning (LoRA)](https://github.com/imtanmay46/Bizad-LLM) | **Reduced average inference time by 40%** for legal-domain assistants. |
-| **NLP** | [Emotion-Cause Recognition (BERT)](https://github.com/SachinSharma-IIITD/nlp-project) | Achieved a **99.4% F1 Score** in complex emotion classification tasks. |
-
----
-
-## Technical Toolkit (Alphabetical)
-
-- **Languages**: C, C++, Java, JavaScript, Python, SQL, TypeScript
-- **AI/ML/NLP**: BERT, HuggingFace, LangChain, PyTorch, Scikit-learn, TensorFlow
-- **Infra/Cloud**: **AWS**, **Docker**, **FastAPI**, **Google Cloud Platform (GCP)**, **Kubernetes (K8s)**
-- **Data/Search**: **BigQuery**, MongoDB, MySQL, PostgreSQL
+- **Goal:** Explore how LLM safety can be enforced at the infrastructure layer rather than relying solely on model behavior.
+- **Design:** Dual-gate (pre/post-inference) enforcement, Zero-Trust–inspired boundaries, and immutable audit logging.
+- **Tech Stack:** FastAPI, n8n, Supabase (PostgreSQL), Microsoft Presidio, Gemini.
+- [**View Repository**](https://github.com/imtanmay46/aether)  
+- [**Read Security & Design Disclosure**](https://github.com/imtanmay46/aether/blob/main/docs/SECURITY_WHITEPAPER.md)
 
 ---
 
-## Connect with an Engineer
-- [**LinkedIn**](https://www.linkedin.com/in/tanmay-singh-2b997a240/)
-- [**Email**](mailto:tanmay.singh0185@gmail.com)
-- [**Engineering Portfolio**](https://tinyurl.com/tanmay-singh-portfolio)
+## Research & Industrial Engineering Experience
 
-> "Architecture is not about what it is, it's about what it prevents!!"
+| Area | Project | Key Outcome |
+| --- | --- | --- |
+| **AI Safety** | [Project Aether](https://github.com/imtanmay46/aether) | Designed a systems-level approach to LLM governance and auditability. |
+| **Security** | [Side-Channel Malware Detection](https://github.com/sociallyencrypted/MalContainer) | Achieved **97% Macro F1** using syscall-based behavioral analysis. |
+| **FinTech** | [Payments Revamp (SDE Intern)](https://github.com/imtanmay46/Bizad-Payments) | Reduced transaction failures by **25%** and improved latency by **30%**. |
+| **ML Optimization** | [LLM Fine-tuning (LoRA)](https://github.com/imtanmay46/Bizad-LLM) | Reduced average inference time by **40%** for domain-specific assistants. |
+| **NLP** | [Emotion-Cause Recognition](https://github.com/SachinSharma-IIITD/nlp-project) | Achieved **99.4% F1** on structured emotion classification tasks. |
+
+---
+
+## Technical Toolkit
+
+- **Languages:** C, C++, Java, JavaScript, Python, SQL, TypeScript  
+- **AI / ML:** PyTorch, TensorFlow, HuggingFace, BERT, Scikit-learn, LangChain  
+- **Backend & Infra:** FastAPI, Docker, Kubernetes, AWS, Google Cloud Platform (GCP)  
+- **Data Systems:** PostgreSQL, MySQL, MongoDB, BigQuery  
+
+---
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/tanmay-singh-2b997a240/)
+- [Email](mailto:tanmay.singh0185@gmail.com)
+- [Engineering Portfolio](https://tinyurl.com/tanmay-singh-portfolio)
+
+> *“Architecture is not about what it is — it’s about what it prevents.”*
