@@ -23,7 +23,7 @@ I am actively seeking full-time opportunities to solve complex engineering chall
 - **Systemic Goal**: Decouple safety from non-deterministic model outputs to ensure "Fail-Closed" security.
 - **Architectural Design**: Dual-Gate Enforcement, Zero-Trust Framework, and Immutable Forensic Auditing.
 - **Tech Stack**: FastAPI, n8n, Supabase, Microsoft Presidio, Gemini 3 Flash.
-- [**View Repository**](https://github.com/imtanmay46/Project-Aether) | [**Read Design Disclosure**](https://github.com/imtanmay46/Project-Aether/blob/main/docs/SECURITY_WHITEPAPER.md)
+- [**View Repository**](https://github.com/imtanmay46/aether) | [**Read Design Disclosure**](https://github.com/imtanmay46/aether/blob/main/docs/SECURITY_WHITEPAPER.md)
 
 ---
 
